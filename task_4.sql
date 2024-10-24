@@ -1,3 +1,5 @@
+USE alx_book_store;
+
 -- Query the INFORMATION_SCHEMA to get the description of the 'books' table
 SELECT 
  COLUMN_NAME, 
